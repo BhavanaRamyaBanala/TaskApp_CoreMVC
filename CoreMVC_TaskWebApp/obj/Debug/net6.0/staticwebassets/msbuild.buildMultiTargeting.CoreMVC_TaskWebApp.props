@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CoreMVC_TaskWebApp.props" />
+</Project>
